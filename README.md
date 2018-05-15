@@ -1,4 +1,4 @@
-# chrome-crawler
+# Firefox-crawler
 
 ## Description
 Docker Image for crawling Web Sites with Firefox & mitmproxy
